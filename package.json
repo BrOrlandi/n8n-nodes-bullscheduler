@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-bullscheduler",
-	"version": "0.1.2",
+	"version": "0.1.0",
 	"description": "Use BullScheduler to schedule jobs in n8n",
 	"keywords": [
 		"n8n-community-node-package"

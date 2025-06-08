@@ -1,6 +1,6 @@
 # n8n-nodes-bullscheduler
 
-![BullScheduler Logo](https://raw.githubusercontent.com/BrOrlandi/n8n-nodes-bullscheduler/main/nodes/BullScheduler/logo.svg)
+![BullScheduler Logo](logo.png)
 
 An n8n community node for scheduling jobs using [BullScheduler](https://github.com/BrOrlandi/BullScheduler). Schedule jobs to execute at specific times or after delays, with automatic webhook delivery to any endpoint.
 
